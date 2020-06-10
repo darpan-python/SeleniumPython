@@ -1,0 +1,691 @@
+2019-09-29 22:46:09,557:INFO:Main_Test:*********************************************************
+2019-09-29 22:46:28,426:INFO:__main__:*********************************************************
+2019-09-29 22:50:09,927:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 22:50:27,721:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:03:00,559:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:04:34,881:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:05:42,222:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,222:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,223:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,223:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,223:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,224:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,224:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,224:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,225:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,225:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,225:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,225:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,226:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,226:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:05:42,226:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:05:42,227:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:06:47,094:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:07:27,406:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,407:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,407:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,407:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,408:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,408:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,409:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,409:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,409:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,410:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,410:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,410:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,411:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,411:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:27,411:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:27,411:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,067:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,067:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,067:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,067:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,067:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,068:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,068:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,068:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,068:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,068:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,069:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,069:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,069:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,069:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:07:48,069:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:07:48,069:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:09:41,134:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:10:25,784:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,784:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,785:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,785:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,785:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,785:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,786:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,786:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,786:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,786:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,786:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,786:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,787:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,787:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:10:25,787:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:10:25,788:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:19,742:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:18:54,408:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,408:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,408:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,409:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,409:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,409:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,410:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,410:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,410:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,410:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,411:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,411:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,411:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,411:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:18:54,412:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:18:54,412:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,261:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,261:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,262:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,262:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,263:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,263:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,264:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,264:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,264:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,265:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,265:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,265:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,265:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,266:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:19:14,266:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:19:14,266:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:21:43,467:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:22:25,086:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:22:25,090:CRITICAL:Unit_Test.Main_Test:'WebDriver' object has no attribute 'wait'
+2019-09-29 23:22:25,090:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:14,816:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:24:50,795:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:50,919:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:51,131:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:51,223:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:51,544:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:51,779:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:51,977:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:24:52,123:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:07,685:INFO:Unit_Test.Main_Test:*********************************************************
+2019-09-29 23:30:52,768:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:52,903:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:53,120:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:53,212:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:53,486:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:53,638:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:53,830:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:30:53,971:INFO:Unit_Test.Main_Test:Run Successfully
+2019-09-29 23:33:48,117:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:18:01,738:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:19:41,204:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:31:06,297:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:32:18,289:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:18,869:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:19,607:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:20,123:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:20,732:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:21,361:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:21,945:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:32:22,129:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:34:16,869:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:35:15,021:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-15 22:35:15,021:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:15,582:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:22,205:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-15 22:35:22,205:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:26,207:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-15 22:35:26,208:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:30,281:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-15 22:35:30,281:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:34,557:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-15 22:35:34,558:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:36,403:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:37,009:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:37,780:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:38,342:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:38,617:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-15 22:35:38,618:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:38,980:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:39,578:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:40,189:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:40,363:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:35:42,650:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-15 22:35:42,650:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:15,953:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:16,483:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:17,217:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:17,721:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:18,326:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:18,995:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:19,563:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:36:19,775:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:20,986:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:37:49,678:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:50,208:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:50,939:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:51,442:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:52,008:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:52,739:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:53,404:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:37:53,591:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:39:33,525:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 22:39:59,531:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:00,076:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:00,780:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:01,273:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:01,835:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:02,464:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:03,091:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 22:40:03,282:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:07,924:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:06:54,221:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:54,740:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:55,470:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:55,956:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:56,533:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:57,180:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:57,771:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:06:57,948:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-15 23:30:20,510:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:31:50,891:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:33:55,928:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:37:01,095:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:37:23,693:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:39:01,770:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:44:11,796:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:45:42,406:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:47:16,139:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:47:37,726:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:48:57,035:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:49:38,238:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:51:16,645:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:51:44,909:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:52:08,455:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:53:11,335:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:55:17,125:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:58:05,584:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:58:52,296:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-15 23:59:17,981:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:08:19,466:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:09:20,979:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:27:17,881:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:31:02,317:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:32:07,664:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:32:12,902:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:32:18,109:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:35:11,578:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:36:39,222:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:40:00,899:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:40:53,398:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:43:09,735:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:43:48,190:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:45:04,919:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:45:34,970:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:46:23,132:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:55:03,297:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:55:48,292:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:55:53,449:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:55:58,586:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:56:40,697:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:57:46,551:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 17:58:32,285:CRITICAL:Unit_Test.Main_Test:Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-28 17:58:37,546:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:58:42,697:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:58:47,856:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:58:51,580:CRITICAL:Unit_Test.Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-28 17:59:01,424:CRITICAL:Unit_Test.Main_Test:Message: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-28 17:59:06,612:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:59:11,785:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:59:16,994:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 17:59:32,886:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:00:24,497:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:02:03,984:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:02:54,388:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:04:47,492:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:05:39,296:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:06:55,094:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:08:16,951:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:09:12,998:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:10:11,654:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:10:11,747:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:11:12,159:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:12:11,103:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:12:16,306:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:12:20,837:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-28 18:12:40,060:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:16:45,838:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:17:37,482:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:18:22,945:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:19:17,615:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:47:55,797:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 18:48:43,286:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 18:49:05,671:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 19:40:18,454:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 19:41:02,984:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 19:41:17,555:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 19:44:24,620:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-28 19:45:09,351:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 19:45:26,235:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 19:51:46,083:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-28 19:51:55,253:CRITICAL:Unit_Test.Main_Test:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=77.0.3865.90)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-28 19:54:16,678:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 21:59:25,551:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:00:11,324:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:03:21,449:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:04:17,306:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:05:36,943:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:06:20,579:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:06:24,597:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:06:28,799:CRITICAL:Unit_Test.Main_Test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:06:33,074:CRITICAL:Unit_Test.prac_test:Message: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:06:39,960:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:08:55,662:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:09:46,068:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:10:00,539:WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x07E48FB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:01,534:WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0934BB50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:02,536:WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0934BA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:03,538:CRITICAL:Unit_Test.Main_Test:HTTPConnectionPool(host='127.0.0.1', port=58220): Max retries exceeded with url: /session/5204cd58a42b556e296dd70c11108e82/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0934BFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',))
+2019-10-29 22:10:04,531:WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0934BAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:05,533:WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x093457D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:06,535:WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09345290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:07,537:CRITICAL:Unit_Test.Main_Test:HTTPConnectionPool(host='127.0.0.1', port=58220): Max retries exceeded with url: /session/5204cd58a42b556e296dd70c11108e82/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x093454B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',))
+2019-10-29 22:10:08,539:WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09390830>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:09,541:WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09390690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:10,546:WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x093906B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/element
+2019-10-29 22:10:11,550:CRITICAL:Unit_Test.Main_Test:HTTPConnectionPool(host='127.0.0.1', port=58220): Max retries exceeded with url: /session/5204cd58a42b556e296dd70c11108e82/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x093905F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',))
+2019-10-29 22:10:12,561:WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09390810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/back
+2019-10-29 22:10:13,569:WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09390350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/back
+2019-10-29 22:10:14,570:WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09390290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/5204cd58a42b556e296dd70c11108e82/back
+2019-10-29 22:10:15,581:CRITICAL:Unit_Test.prac_test:HTTPConnectionPool(host='127.0.0.1', port=58220): Max retries exceeded with url: /session/5204cd58a42b556e296dd70c11108e82/back (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x093901D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',))
+2019-10-29 22:11:44,153:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:13:59,444:CRITICAL:Unit_Test.Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:13:59,447:CRITICAL:Unit_Test.Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:13:59,450:CRITICAL:Unit_Test.Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:13:59,453:CRITICAL:Unit_Test.Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:13:59,456:CRITICAL:Unit_Test.prac_test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-29 22:14:23,751:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:15:27,857:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:16:49,099:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:17:53,550:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:20:11,313:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:21:16,515:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:38:46,422:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-29 22:39:41,835:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-29 22:40:38,617:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:43:13,711:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-30 22:43:58,300:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:44:03,504:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:44:08,790:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:44:14,025:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:44:14,025:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:44:14,025:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:44:19,201:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-10-30 22:46:33,851:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:46:34,045:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:46:34,049:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:46:34,644:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-10-30 22:49:28,228:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:49:28,418:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:49:28,418:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:49:28,989:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-10-30 22:53:45,308:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-30 22:54:32,930:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:54:33,124:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:54:33,124:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:55:07,810:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-10-30 22:57:05,701:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:57:11,032:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:57:11,040:CRITICAL:Unit_Test.Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-10-30 22:57:11,044:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:57:11,044:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:57:11,052:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-10-30 22:57:33,765:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 22:57:33,958:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:57:33,962:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 22:57:34,565:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-10-30 23:01:11,803:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 23:03:06,495:INFO:Unit_Test.Main_Test:Run Successfully
+2019-10-30 23:07:26,245:INFO:Unit_Test.Main_Test:*********************************************************
+2019-10-30 23:08:06,666:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-10-30 23:08:17,441:CRITICAL:Unit_Test.Main_Test:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=77.0.3865.120)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-06 21:14:55,313:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:16:38,089:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:21:00,047:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:24:55,967:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:26:39,013:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:30:28,748:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:33:26,778:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:38:37,666:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-06 21:39:49,393:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 19:31:35,834:INFO:__main__:*********************************************************
+2019-11-10 19:32:32,651:INFO:__main__:*********************************************************
+2019-11-10 19:58:17,974:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 19:58:29,964:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 20:02:47,357:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 20:03:25,501:INFO:Unit_Test.Main_Test:Run Successfully
+2019-11-10 20:03:26,120:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-11-10 20:04:18,063:INFO:Unit_Test.Main_Test:Run Successfully
+2019-11-10 20:04:22,082:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-11-10 20:04:42,410:INFO:Unit_Test.Main_Test:Run Successfully
+2019-11-10 20:04:43,032:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-11-10 20:07:16,334:CRITICAL:Unit_Test.Main_Test:Message: 
+
+2019-11-10 20:07:16,548:INFO:Unit_Test.Main_Test:Run Successfully
+2019-11-10 20:07:16,549:INFO:Unit_Test.Main_Test:Run Successfully
+2019-11-10 20:07:17,132:CRITICAL:Unit_Test.prac_test:'NoneType' object is not subscriptable
+2019-11-10 20:17:03,593:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 20:21:30,253:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 20:22:18,652:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 20:23:01,756:INFO:Unit_Test.Main_Test:*********************************************************
+2019-11-10 20:26:53,357:INFO:Main_Test:*********************************************************
+2019-11-10 20:27:00,392:INFO:Main_Test:*********************************************************
+2019-11-11 21:23:41,314:INFO:Main_Test:*********************************************************
+2019-11-11 21:24:40,873:INFO:Main_Test:*********************************************************
+2019-11-11 22:22:36,234:INFO:Main_Test:*********************************************************
+2019-11-11 22:31:45,197:INFO:Main_Test:*********************************************************
+2019-11-11 22:33:03,833:CRITICAL:Main_Test:Message: 
+
+2019-11-11 22:33:04,030:INFO:Main_Test:Run Successfully
+2019-11-11 22:33:04,034:INFO:Main_Test:Run Successfully
+2019-11-11 22:33:04,622:CRITICAL:prac_test:'NoneType' object is not subscriptable
+2019-11-11 22:46:59,500:INFO:Main_Test:*********************************************************
+2019-11-11 22:50:13,924:CRITICAL:Main_Test:Message: 
+
+2019-11-11 22:50:22,940:CRITICAL:Main_Test:Message: 
+
+2019-11-11 22:50:28,225:CRITICAL:Main_Test:Message: 
+
+2019-11-11 22:50:33,576:CRITICAL:Main_Test:Message: 
+
+2019-11-11 23:02:15,425:INFO:Main_Test:*********************************************************
+2019-11-11 23:03:12,896:CRITICAL:Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-11 23:03:12,896:CRITICAL:Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-11 23:03:12,896:CRITICAL:Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-11 23:03:12,896:CRITICAL:prac_test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-11 23:03:39,581:CRITICAL:Main_Test:Message: 
+
+2019-11-11 23:03:49,946:CRITICAL:Main_Test:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-12 22:28:33,023:INFO:Main_Test:*********************************************************
+2019-11-12 22:30:10,172:CRITICAL:Main_Test:Message: 
+
+2019-11-12 22:30:17,432:CRITICAL:Main_Test:Message: 
+
+2019-11-12 22:30:22,647:CRITICAL:Main_Test:Message: 
+
+2019-11-12 22:30:30,491:CRITICAL:Main_Test:Message: element not visible
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2019-11-12 22:30:35,674:CRITICAL:Main_Test:Message: 
+
+2019-11-12 22:30:40,850:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:07:28,717:INFO:Main_Test:*********************************************************
+2019-11-19 23:07:59,452:INFO:Main_Test:*********************************************************
+2019-11-19 23:19:09,230:INFO:Main_Test:*********************************************************
+2019-11-19 23:20:44,410:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:20:51,394:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:20:56,740:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:21:02,065:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:21:04,779:INFO:prac_test:Pass TestCase: 0
+Fail TestCases: 1
+2019-11-19 23:26:54,147:INFO:Main_Test:*********************************************************
+2019-11-19 23:28:02,614:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:28:09,817:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:28:15,157:CRITICAL:Main_Test:Message: 
+
+2019-11-19 23:28:20,491:CRITICAL:Main_Test:Message: 
+
+2020-03-26 12:08:30,797:INFO:Main_Test:*********************************************************
+2020-03-26 12:26:40,612:CRITICAL:Main_Test:Message: chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 12:26:44,983:CRITICAL:Main_Test:Message: chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 12:26:48,998:CRITICAL:Main_Test:Message: chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 12:26:53,016:CRITICAL:Main_Test:Message: chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 12:26:57,019:CRITICAL:Main_Test:Message: chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 12:27:01,030:CRITICAL:prac_test:Message: chrome not reachable
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 13:06:35,612:INFO:Main_Test:*********************************************************
+2020-03-26 13:07:06,353:INFO:Main_Test:Run Successfully
+2020-03-26 13:07:11,564:CRITICAL:prac_test:'NoneType' object is not subscriptable
+2020-03-26 13:09:47,064:INFO:Main_Test:*********************************************************
+2020-03-26 13:10:29,069:CRITICAL:Main_Test:Message: 
+
+2020-03-26 13:10:34,279:CRITICAL:Main_Test:Message: 
+
+2020-03-26 13:10:39,466:CRITICAL:Main_Test:Message: 
+
+2020-03-26 13:17:42,750:INFO:Main_Test:*********************************************************
+2020-03-26 13:18:17,907:CRITICAL:Main_Test:type object 'datetime.datetime' has no attribute 'datetime'
+2020-03-26 13:18:17,938:CRITICAL:Main_Test:type object 'datetime.datetime' has no attribute 'datetime'
+2020-03-26 13:18:23,149:CRITICAL:Main_Test:Message: 
+
+2020-03-26 13:18:28,028:CRITICAL:Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 13:18:28,034:CRITICAL:Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 13:18:28,040:CRITICAL:Main_Test:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.132)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64)
+
+2020-03-26 13:18:28,040:INFO:prac_test:Pass TestCase: 0
+Fail TestCases: 1
+2020-03-26 13:34:02,106:INFO:Main_Test:*********************************************************
+2020-03-26 13:34:48,346:INFO:Main_Test:*********************************************************
+2020-03-26 13:35:20,615:INFO:Main_Test:*********************************************************
+2020-03-26 13:37:01,405:INFO:Main_Test:*********************************************************
+2020-03-26 13:38:09,083:INFO:Main_Test:*********************************************************
+2020-06-09 21:34:36,376:INFO:Main_Test:*********************************************************
+2020-06-09 21:35:52,292:INFO:Main_Test:*********************************************************
+2020-06-09 21:39:03,513:INFO:Main_Test:*********************************************************
+2020-06-09 21:42:31,094:INFO:Main_Test:*********************************************************
+2020-06-09 21:43:29,267:INFO:Main_Test:*********************************************************
+2020-06-09 21:46:45,336:INFO:Main_Test:*********************************************************
+2020-06-09 21:55:28,713:INFO:Main_Test:*********************************************************
+2020-06-09 21:58:04,465:INFO:Main_Test:*********************************************************
+2020-06-09 22:06:17,857:INFO:Main_Test:*********************************************************
+2020-06-09 22:06:41,282:INFO:Main_Test:*********************************************************

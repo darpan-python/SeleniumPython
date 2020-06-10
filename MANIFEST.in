@@ -1,0 +1,4 @@
+include Unit_Test/conf.properties
+include MANIFEST.in
+include *.txt
+include Rapid_Screenshot/
