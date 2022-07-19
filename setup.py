@@ -1,17 +1,20 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
-with open("requirements.txt") as fp:
-    req = fp.read()
+with open('requirements.txt') as f:
+    required = f.read().splitlines()
+
 setup(
-    name="gui_app",
-    version="0.1",
-    packages=find_packages(),
+    name='sel_table',
+    version='1.0',
+    install_requires=required,
+    package_dir={'': 'sel_table'},
+    packages=['core', 'drivers'],
     include_package_data=True,
-    py_modules=["run", "setup"],
-    install_requires=req,
-    package_data={'Rapid_Screenshot': [""]},
-    entry_points={'console_scripts': ['sel = run:main']
-
-}
-
+    py_modules=['app'],
+    author='root',
+    author_email='',
+    description='Selenium application for internal use only'
 )
+
+# Command to execute
+#python setup.py install

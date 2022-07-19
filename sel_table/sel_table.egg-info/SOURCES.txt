@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.py
+sel_table/app.py
+sel_table/core/__init__.py
+sel_table/core/sel.py
+sel_table/drivers/chromedriver
+sel_table/drivers/geckodriver
+sel_table/sel_table.egg-info/PKG-INFO
+sel_table/sel_table.egg-info/SOURCES.txt
+sel_table/sel_table.egg-info/dependency_links.txt
+sel_table/sel_table.egg-info/requires.txt
+sel_table/sel_table.egg-info/top_level.txt

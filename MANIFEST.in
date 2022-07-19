@@ -1,4 +1,4 @@
-include Unit_Test/conf.properties
 include MANIFEST.in
-include *.txt
-include Rapid_Screenshot/
+include sel_table/drivers/*
+include sel_table/core/*
+include sel_table/app.py
